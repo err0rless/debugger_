@@ -1,0 +1,21 @@
+﻿  my_first_test.cpp
+a:\project\debugger project\debugger project\debugger.cpp(72): warning C4805: '==' : 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+a:\project\debugger project\debugger project\debugger.cpp(155): warning C4172: 지역 변수 또는 임시 변수의 주소를 반환하고 있습니다.
+a:\project\debugger project\debugger project\my_first_test.cpp(24): error C2039: 'Rip' : '_CONTEXT'의 멤버가 아닙니다.
+          c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5941) : '_CONTEXT' 선언을 참조하십시오.
+a:\project\debugger project\debugger project\my_first_test.cpp(25): error C2039: 'Rsp' : '_CONTEXT'의 멤버가 아닙니다.
+          c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5941) : '_CONTEXT' 선언을 참조하십시오.
+a:\project\debugger project\debugger project\my_first_test.cpp(26): error C2039: 'Rbp' : '_CONTEXT'의 멤버가 아닙니다.
+          c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5941) : '_CONTEXT' 선언을 참조하십시오.
+a:\project\debugger project\debugger project\my_first_test.cpp(27): error C2039: 'Rax' : '_CONTEXT'의 멤버가 아닙니다.
+          c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5941) : '_CONTEXT' 선언을 참조하십시오.
+a:\project\debugger project\debugger project\my_first_test.cpp(28): error C2039: 'Rbx' : '_CONTEXT'의 멤버가 아닙니다.
+          c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5941) : '_CONTEXT' 선언을 참조하십시오.
+a:\project\debugger project\debugger project\my_first_test.cpp(29): error C2039: 'Rcx' : '_CONTEXT'의 멤버가 아닙니다.
+          c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5941) : '_CONTEXT' 선언을 참조하십시오.
+a:\project\debugger project\debugger project\my_first_test.cpp(30): error C2039: 'Rdx' : '_CONTEXT'의 멤버가 아닙니다.
+          c:\program files (x86)\windows kits\8.1\include\um\winnt.h(5941) : '_CONTEXT' 선언을 참조하십시오.
+  Debugger.cpp
+a:\project\debugger project\debugger project\debugger.cpp(72): warning C4805: '==' : 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+a:\project\debugger project\debugger project\debugger.cpp(155): warning C4172: 지역 변수 또는 임시 변수의 주소를 반환하고 있습니다.
+  코드를 생성하고 있습니다...

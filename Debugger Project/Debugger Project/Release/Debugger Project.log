@@ -1,0 +1,5 @@
+﻿  my_first_test.cpp
+a:\project\debugger project\debugger project\Debugger.cpp(72): warning C4805: '==' : 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+a:\project\debugger project\debugger project\Debugger.cpp(155): warning C4172: 지역 변수 또는 임시 변수의 주소를 반환하고 있습니다.
+my_first_test.cpp(51): error C2664: 'int strcmp(const char *,const char *)' : 인수 1을(를) 'WCHAR [260]'에서 'const char *'(으)로 변환할 수 없습니다.
+          가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.

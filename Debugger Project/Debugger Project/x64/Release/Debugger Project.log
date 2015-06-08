@@ -1,0 +1,8 @@
+﻿  my_first_test.cpp
+a:\project\debugger project\debugger project\Debugger.cpp(79): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(118) : 'strcat' 선언을 참조하십시오.
+a:\project\debugger project\debugger project\Debugger.cpp(87): warning C4267: '=' : 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+a:\project\debugger project\debugger project\Debugger.cpp(220): warning C4805: '==' : 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  Debugger Project.vcxproj -> A:\Project\Debugger Project\x64\Release\Debugger Project.exe
